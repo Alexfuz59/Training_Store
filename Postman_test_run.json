@@ -1,0 +1,290 @@
+{
+	"id": "452ea161-84f2-4bca-8654-e4021eb46359",
+	"name": "Training store orders",
+	"timestamp": "2023-09-27T18:01:39.428Z",
+	"collection_id": "25706941-9fdd83e4-2fc1-4181-8d81-46d16f7d2e39",
+	"folder_id": 0,
+	"environment_id": "25706941-98c6ea8a-6700-4093-9a01-957221a76591",
+	"totalPass": 40,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-09-27T18:01:23.099Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "9c9c0a16-abe4-4d35-a9ab-5714e0604ebb",
+			"name": "Create order",
+			"url": "http://16.170.215.221:9090/api/v1/orders",
+			"time": 622,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 10,
+					"fail": 0
+				}
+			},
+			"times": [
+				721,
+				630,
+				619,
+				601,
+				645,
+				601,
+				767,
+				616,
+				670,
+				622
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "b3182754-adaa-4db4-98fc-031da6640772",
+			"name": " Get orders",
+			"url": "http://16.170.215.221:9090/api/v1/orders",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 10,
+					"fail": 0
+				}
+			},
+			"times": [
+				37,
+				37,
+				35,
+				36,
+				37,
+				37,
+				43,
+				39,
+				39,
+				36
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "0b018d75-89e7-480c-929a-4823185613a7",
+			"name": "Update order",
+			"url": "http://16.170.215.221:9090/api/v1/orders",
+			"time": 39,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 10,
+					"fail": 0
+				}
+			},
+			"times": [
+				39,
+				37,
+				38,
+				41,
+				38,
+				39,
+				68,
+				38,
+				39,
+				39
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ff9b0050-8e28-4a77-a818-dc637e79e72e",
+			"name": " Delete order",
+			"url": "http://16.170.215.221:9090/api/v1/orders/157",
+			"time": 37,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 10,
+					"fail": 0
+				}
+			},
+			"times": [
+				37,
+				37,
+				38,
+				38,
+				37,
+				36,
+				45,
+				37,
+				37,
+				37
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 10,
+	"totalTime": 7663,
+	"collection": {
+		"requests": [
+			{
+				"id": "9c9c0a16-abe4-4d35-a9ab-5714e0604ebb",
+				"method": "POST"
+			},
+			{
+				"id": "b3182754-adaa-4db4-98fc-031da6640772",
+				"method": "GET"
+			},
+			{
+				"id": "0b018d75-89e7-480c-929a-4823185613a7",
+				"method": "PUT"
+			},
+			{
+				"id": "ff9b0050-8e28-4a77-a818-dc637e79e72e",
+				"method": "DELETE"
+			}
+		]
+	}
+}
