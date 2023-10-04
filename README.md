@@ -4,7 +4,7 @@
  * [Тест план](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_plan.pdf)
  * [Набор тест-кейсоов](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_cases.pdf)
  * [Баг-репорт](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Bug_report.pdf)
- * [Тест-RUN из TMS Qase](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_run_2023_08_28.pdf)
+ * [TestRun из TMS Qase](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_run_2023_08_28.pdf)
 
 ### 2. API:
   * [Коллекция Postman](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Postman_collection.json)
