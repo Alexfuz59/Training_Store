@@ -1,5 +1,5 @@
 # Training_Store
-Репозиторий онлайн-магазина [Training_Store](http://16.170.215.221/home)
+Репозиторий с тестовой документацией для онлайн-магазина [Training_Store](http://16.170.215.221/home)
 ### 1. Тестовая документация: 
  * [Тест план](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_plan.pdf)
  * [Набор тест-кейсоов](https://github.com/Alexfuz59/Training_Store_V2/blob/main/Test_cases.pdf)
